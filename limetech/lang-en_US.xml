@@ -6,7 +6,7 @@
 <LanguagePack>en_US</LanguagePack>
 <Author>Limetech</Author>
 <Name>English language pack</Name>
-<TemplateURL>https://github.com/unraid/language-templates/limetech/raw/master/lang-en_US.xml</TemplateURL>
+<TemplateURL>https://raw.githubusercontent.com/unraid/language-templates/master/limetech/lang-en_US.xml</TemplateURL>
 <Icon>https://raw.githubusercontent.com/unraid/language-templates/master/limetech/Green-Earth-Transparent-File.png</Icon>
 <Description>
 This is the built-in English language pack for Unraid.
