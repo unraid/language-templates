@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language>
+<LanguageURL>https://github.com/unraid/lang-pt_PT/archive/master.zip</LanguageURL>
+<Language>Portuguese</Language>
+<LanguageLocal>Português</LanguageLocal>
+<LanguagePack>pt_PT</LanguagePack>
+<RemoveFromCA>true</RemoveFromCA>
+<Author>....</Author>
+<Name>Pacote de idioma português</Name>
+<TemplateURL>https://raw.githubusercontent.com/unraid/language-templates/master/limetech/lang-pt_PT.xml</TemplateURL>
+<Version>2020.06.24</Version>
+<Icon>https://raw.githubusercontent.com/unraid/language-templates/master/limetech/Green-Earth-Transparent-File.png</Icon>
+<Description>
+Esta é uma tradução em português para Unraid e plugins suportados
+
+This is a Portuguese translation for Unraid and supported plugins
+</Description>
+</Language>
