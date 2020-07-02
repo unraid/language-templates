@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language>
+<LanguageURL>https://github.com/unraid/lang-no_NO/archive/master.zip</LanguageURL>
+<Language>Norwegian</Language>
+<LanguageLocal>Norsk</LanguageLocal>
+<LanguagePack>no_NO</LanguagePack>
+<RemoveFromCA>true</RemoveFromCA>
+<Author>....</Author>
+<Name>Norsk språkpakke</Name>
+<TemplateURL>https://raw.githubusercontent.com/unraid/language-templates/master/limetech/lang-no_NO.xml</TemplateURL>
+<Version>2020.07.02</Version>
+<Icon>https://raw.githubusercontent.com/unraid/language-templates/master/limetech/Green-Earth-Transparent-File.png</Icon>
+<Description>
+Dette er en norsk oversettelse for Unraid og støttede plugins
+
+This is a Norwegian translation for Unraid and supported plugins
+</Description>
+</Language>
