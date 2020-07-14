@@ -5,14 +5,14 @@
 <LanguageLocal>عربى</LanguageLocal>
 <LanguagePack>ar_AR</LanguagePack>
 <RemoveFromCA>true</RemoveFromCA>
-<Author>....</Author>
+<Author>Rami AlHames, Ala'auddin Albakhit, Ziad Alshanbari, Barakat Al-Hamzi, Omaima Aouam</Author>
 <Name>حزمة اللغة العربية</Name>
 <TemplateURL>https://raw.githubusercontent.com/unraid/language-templates/master/limetech/lang-ar_AR.xml</TemplateURL>
-<Version>2020.06.24</Version>
+<Version>2020.07.15</Version>
 <Icon>https://raw.githubusercontent.com/unraid/language-templates/master/limetech/Green-Earth-Transparent-File.png</Icon>
 <Support></Support>
 <Description>
-هذه ترجمة عربية للمكونات الإضافية غير المدعومة
+هذه الترجمة العربية لنظام التشغيل أونريد والملحقات الإضافية المدعومة
 
 This is an Arabic translation for Unraid and supported plugins
 </Description>
