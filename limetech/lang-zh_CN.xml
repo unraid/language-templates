@@ -4,8 +4,7 @@
 <Language>Simplified Chinese</Language>
 <LanguageLocal>简体中文</LanguageLocal>
 <LanguagePack>zh_CN</LanguagePack>
-<Author>Nika Wang, William Fung, 少花一点, Javy Liu, Witte Kwok, Han Liu
-</Author>
+<Author>Nika Wang, William Fung, 少花一点, Javy Liu, Witte Kwok, Han Liu</Author>
 <Name>简体中文语言包</Name>
 <TemplateURL>https://raw.githubusercontent.com/unraid/language-templates/master/limetech/lang-zh_CN.xml</TemplateURL>
 <Version>2020.07.15</Version>
