@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Language>
 <LanguageURL>https://github.com/unraid/lang-zh_CN/archive/master.zip</LanguageURL>
-<Language>Mandarin</Language>
-<LanguageLocal>普通话</LanguageLocal>
+<Language>Simplified Chinese</Language>
+<LanguageLocal>简体中文</LanguageLocal>
 <LanguagePack>zh_CN</LanguagePack>
-<RemoveFromCA>true</RemoveFromCA>
-<Author>....</Author>
-<Name>普通话包</Name>
+<Author>Nika Wang, William Fung, 少花一点, Javy Liu, Witte Kwok, Han Liu
+</Author>
+<Name>简体中文语言包</Name>
 <TemplateURL>https://raw.githubusercontent.com/unraid/language-templates/master/limetech/lang-zh_CN.xml</TemplateURL>
-<Version>2020.06.24</Version>
+<Version>2020.07.15</Version>
 <Icon>https://raw.githubusercontent.com/unraid/language-templates/master/limetech/Green-Earth-Transparent-File.png</Icon>
 <Support></Support>
 <Description>
 这是Unraid和受支持的插件的中文翻译
 
-This is a Mandarin Chinese translation for Unraid and supported plugins
+This is a Simplified Chinese translation for Unraid and supported plugins
 </Description>
 </Language>
