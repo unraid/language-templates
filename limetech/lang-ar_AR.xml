@@ -4,8 +4,7 @@
 <Language>Arabic</Language>
 <LanguageLocal>عربي</LanguageLocal>
 <LanguagePack>ar_AR</LanguagePack>
-<RemoveFromCA>true</RemoveFromCA>
-<Author>Rami AlHames, Ala'auddin Albakhit, Ziad Alshanbari, Barakat Al-Hamzi, Omaima Aouam</Author>
+<Author>Rami AlHames, Ala'auddin Albakhit, Ziad Alshanbari, Barakat Al-Hamzi</Author>
 <Name>حزمة اللغة العربية</Name>
 <TemplateURL>https://raw.githubusercontent.com/unraid/language-templates/master/limetech/lang-ar_AR.xml</TemplateURL>
 <Version>2020.07.15</Version>
