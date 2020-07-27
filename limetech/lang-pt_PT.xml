@@ -4,7 +4,7 @@
 <Language>Portuguese</Language>
 <LanguageLocal>Português</LanguageLocal>
 <LanguagePack>pt_PT</LanguagePack>
-<Author>johnnie.black, Odom12, Dinip</Author>
+<Author>Jorge Bastos, André Hamm Vinga, Dinip</Author>
 <Name>Pacote de idioma português</Name>
 <TemplateURL>https://raw.githubusercontent.com/unraid/language-templates/master/limetech/lang-pt_PT.xml</TemplateURL>
 <Version>2020.07.26</Version>
