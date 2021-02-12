@@ -2,10 +2,9 @@
 <Language>
 <LanguageURL>https://github.com/unraid/lang-pl_PL/archive/master.zip</LanguageURL>
 <Language>Polish</Language>
-<LanguageLocal>Polskie</LanguageLocal>
+<LanguageLocal>Polski</LanguageLocal>
 <LanguagePack>pl_PL</LanguagePack>
-<RemoveFromCA>true</RemoveFromCA>
-<Author>....</Author>
+<Author>Tymoteusz "Tyroteki" Borowski, Psujek</Author>
 <Name>Pakiet języka polskiego</Name>
 <TemplateURL>https://raw.githubusercontent.com/unraid/language-templates/master/limetech/lang-pl_PL.xml</TemplateURL>
 <Version>2020.06.24</Version>
@@ -14,6 +13,7 @@
 <Description>
 To jest polskie tłumaczenie dla Unraid i obsługiwanych wtyczek
 
-This is a Polish translation for Unraid and supported plugins
+This is a Polish translation for Unraid and supported plugins.
+STILL IN PROGRESS. Status: https://squidly271.github.io/languageErrors.html#pl_PL
 </Description>
 </Language>
