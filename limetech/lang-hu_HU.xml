@@ -7,11 +7,11 @@
 <Author>Ármin Nyerges</Author>
 <Name>Magyar nyelvi csomag</Name>
 <TemplateURL>https://raw.githubusercontent.com/unraid/language-templates/master/limetech/lang-hu_HU.xml</TemplateURL>
-<Version>2022.02.19</Version>
+<Version>2022.02.18</Version>
 <Icon>https://raw.githubusercontent.com/unraid/language-templates/master/limetech/Green-Earth-Transparent-File.png</Icon>
 <Support>/</Support>
 <Description>
-Este es el paquete de traducción al español para Unraid.
+This is the Hungarian language pack for Unraid.
 **Work in Progress**
 Ez az Unraid és a támogatott bővítmények magyar fordítása.
 </Description>
