@@ -4,7 +4,6 @@
 <Language>Italian</Language>
 <LanguageLocal>Italiano</LanguageLocal>
 <LanguagePack>it_IT</LanguagePack>
-<RemoveFromCA>true</RemoveFromCA>
 <Author>....</Author>
 <Name>Pacchetto in lingua italiana</Name>
 <TemplateURL>https://raw.githubusercontent.com/unraid/language-templates/master/limetech/lang-it_IT.xml</TemplateURL>
@@ -13,7 +12,7 @@
 <Support></Support>
 <Description>
 Questa è una traduzione italiana di Unraid e plugin supportati
-
+***Work in Progress***
 This is an Italian translation for Unraid and supported plugins
 </Description>
 </Language>
