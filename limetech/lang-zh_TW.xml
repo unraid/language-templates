@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?> 
 <Language> 
-<LanguageURL>https://github.com/unraid/lang-zh_TW/archive/master.zip</LanguageURL> 
+<LanguageURL>https://github.com/marktsai0316/lang-zh_TW/archive/master.zip</LanguageURL> 
 <Language>Traditional Chinese</Language> 
 <LanguageLocal>繁體中文</LanguageLocal> 
 <LanguagePack>zh_TW</LanguagePack> 
 <Author>Nika Wang, William Fung, 少花一點, Javy Liu, Witte Kwok, Han Liu, Xuzhou Qin, Sean Zhang, Mark Tsai</Author> 
 <Name>繁體中文語言包</Name> 
-<TemplateURL>https://raw.githubusercontent.com/unraid/language-templates/master/limetech/lang-zh_TW.xml</TemplateURL> 
+<TemplateURL>https://raw.githubusercontent.com/marktsai0316/language-templates/master/limetech/lang-zh_TW.xml</TemplateURL> 
 <Version>2022.04.12</Version> 
 <Icon>https://raw.githubusercontent.com/unraid/language-templates/master/limetech/Green-Earth-Transparent-File.png</Icon>
 <Support>https://forums.unraid.net/forum/88-chinese-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87/</Support> 
