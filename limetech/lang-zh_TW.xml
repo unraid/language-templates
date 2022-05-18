@@ -4,7 +4,7 @@
 <Language>Traditional Chinese</Language> 
 <LanguageLocal>繁體中文</LanguageLocal> 
 <LanguagePack>zh_TW</LanguagePack> 
-<Author>Nika Wang, William Fung, 少花一點, Javy Liu, Witte Kwok, Han Liu, Xuzhou Qin, Sean Zhang, Mark Tsai</Author> 
+<Author>Mark Tsai</Author> 
 <Name>繁體中文語言包</Name> 
 <TemplateURL>https://raw.githubusercontent.com/marktsai0316/language-templates/master/limetech/lang-zh_TW.xml</TemplateURL> 
 <Version>2022.04.12</Version> 
