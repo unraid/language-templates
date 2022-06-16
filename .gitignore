@@ -12,3 +12,4 @@ nbproject
 *.sublime-workspace
 sftp-settings.json
 sftp-config.json
+*.bak
