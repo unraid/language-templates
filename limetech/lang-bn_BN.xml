@@ -4,12 +4,12 @@
 <Language>Bengali</Language>
 <LanguageLocal>বাংলা</LanguageLocal>
 <LanguagePack>bn_BN</LanguagePack>
-<Author>Sergio Fraile, Carlos Rodriguez, Hector Alcala, Brendan Cazier, Christian Sosa, Roy Quiceno, amfp</Author>
+<Author>cloudstudio</Author>
 <Name>এটি বাংলা ভাষার প্যাক</Name>
 <TemplateURL>https://raw.githubusercontent.com/unraid/language-templates/master/limetech/lang-bn_BN.xml</TemplateURL>
 <Version>2024.02.20</Version>
 <Icon>https://raw.githubusercontent.com/unraid/language-templates/master/limetech/Green-Earth-Transparent-File.png</Icon>
-<Support>https://forums.unraid.net/forum/78-spanish-espa%C3%B1ol/</Support>
+<Support>https://forums.unraid.net/forum/77-general/</Support>
 <Description>
 এটি Unraid-এর জন্য বাংলা ভাষার প্যাক
 
