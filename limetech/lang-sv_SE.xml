@@ -4,7 +4,6 @@
 <Language>Swedish</Language>
 <LanguageLocal>Svenska</LanguageLocal>
 <LanguagePack>sv_SE</LanguagePack>
-<RemoveFromCA>true</RemoveFromCA>
 <Author>Slisk Lindqvist</Author>
 <Name>Svenska språkpaket</Name>
 <TemplateURL>https://raw.githubusercontent.com/unraid/language-templates/master/limetech/lang-sv_SE.xml</TemplateURL>
