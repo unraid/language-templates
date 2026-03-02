@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language>
+<LanguageDefault>true</LanguageDefault>
+<Language>Japanese</Language>
+<LanguageLocal>日本語</LanguageLocal>
+<LanguagePack>ja_JA</LanguagePack>
+<Author>Limetech</Author>
+<Name>Japanese language pack</Name>
+<TemplateURL>https://raw.githubusercontent.com/unraid/language-templates/master/limetech/lang-ja_JA.xml</TemplateURL>
+<Icon>https://raw.githubusercontent.com/unraid/language-templates/master/limetech/Green-Earth-Transparent-File.png</Icon>
+<Description>
+This is the Japanese language pack for Unraid OS.
+</Description>
+</Language>
