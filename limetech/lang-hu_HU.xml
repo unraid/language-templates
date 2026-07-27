@@ -4,10 +4,10 @@
 <Language>Hungarian</Language>
 <LanguageLocal>Magyar</LanguageLocal>
 <LanguagePack>hu_HU</LanguagePack>
-<Author>Ármin Nyerges</Author>
+<Author>Ármin Nyerges, nkgy17</Author>
 <Name>Magyar nyelvi csomag</Name>
 <TemplateURL>https://raw.githubusercontent.com/unraid/language-templates/master/limetech/lang-hu_HU.xml</TemplateURL>
-<Version>2026.07.08</Version>
+<Version>2026.07.25</Version>
 <Icon>https://raw.githubusercontent.com/unraid/language-templates/master/limetech/Green-Earth-Transparent-File.png</Icon>
 <Support>/</Support>
 <Description>
